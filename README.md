@@ -151,7 +151,8 @@ The simulation generates:
 
 ## 👤 Author
 
-Sang Truong
+Sang Truong 
+
 Son Cao
 
 ## 📄 License
