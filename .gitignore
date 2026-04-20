@@ -1,0 +1,13 @@
+# Office documents
+*.docx
+*.pptx
+~$*
+
+# Python scripts (excluded from repo)
+mp_image_sim_v1 (1).py
+
+# Other notebooks
+Python_Learning.ipynb
+
+# Images
+*.png
